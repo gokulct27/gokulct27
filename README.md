@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gokulct
 - 🌱 I’m currently doing internship with excelr solutions on data science projects
-- 💞️ I’m open for full time opertunities on ...data science 
+- 💞️ I’m open for full time opportunities on ...data science 
 - 📫 How to reach me ...gokulct27@gmail.com
 
 <!---
