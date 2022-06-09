@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @gokulct27
-- 👀 I’m interested in ...video games
-- 🌱 I’m currently learning ...data science
-- 💞️ I’m looking to collaborate on ...data science projects
+- 👋 Hi, I’m @gokulct
+- 🌱 I’m currently doing internship with excelr solutions on data science projects
+- 💞️ I’m open for full time opertunities on ...data science 
 - 📫 How to reach me ...gokulct27@gmail.com
 
 <!---
