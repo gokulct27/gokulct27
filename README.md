@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gokulct
+- 👋 Hi, I’m @gokulct an data enthusiast
 - watch and learn from my works..
 - 📫 How to reach me ...gokulct27@gmail.com
 
